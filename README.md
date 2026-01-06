@@ -1,1 +1,1 @@
-jour 1 : le Javascript
+Jour 1 : Exercice Variables
