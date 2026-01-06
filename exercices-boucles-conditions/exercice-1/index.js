@@ -18,3 +18,4 @@ while(k <= 20){
     console.log(k);
     k+=2;
 }
+
