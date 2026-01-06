@@ -13,8 +13,8 @@ console.log(deci);
 let nega = -5;
 console.log(nega);
 
-let oui = true;
-console.log(oui);
+let yes = true;
+console.log(yes);
 
-let non = false;
-console.log(non);
+let no = false;
+console.log(no);
