@@ -1,1 +1,1 @@
-Jour 1 : Exercice Variables
+Jour 1 : Variables / Cinditions et Boucles / Mini Projet
